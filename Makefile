@@ -11,5 +11,6 @@ test: $(VENV)/bin/activate
 	$(PYTEST) test/*
 
 clean:
+	rm -rf .pytest_cache/
 	rm -rf __pycache__
-	rm -rf $(VEN)
+	rm -rf $(VENV)
