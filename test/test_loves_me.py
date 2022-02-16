@@ -1,5 +1,6 @@
 import pybox.src.loves_me.loves_me as lm
 
+
 def test_loves_me():
     assert lm.loves_me(0) == "NO ONE LOVES YOU!"
     assert lm.loves_me(1) == "LOVES ME!"

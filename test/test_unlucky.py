@@ -1,5 +1,6 @@
 import pybox.src.unlucky.unlucky as ul
 
+
 def test_unlucky():
     arr0 = []
     arr1 = [1, 2, 3]

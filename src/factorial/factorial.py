@@ -1,4 +1,8 @@
+# Write a recursive function to calculate a factorial
+# of a given integer
+
 import logging
+
 
 def factorial(n):
     if n < 0:
