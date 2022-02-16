@@ -1,4 +1,4 @@
-import pybox.unlucky.unlucky as ul
+import pybox.src.unlucky.unlucky as ul
 
 def test_unlucky():
     arr0 = []

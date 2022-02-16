@@ -1,6 +1,6 @@
 import logging
 
-import pybox.factorial.factorial as fact
+import pybox.src.factorial.factorial as fact
 
 
 def test_factorial():
